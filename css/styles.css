@@ -19,6 +19,13 @@ footer {
   background-size: 100%;
   height: 40vh;
   background-position: 0;
+  padding: 100px;
+}
+footer #redes a img {
+  height: 50px;
+  position: static;
+  display: inline-block;
+  margin: 10px;
 }
 main {
   background-color: aliceblue;
