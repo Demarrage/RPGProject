@@ -21,6 +21,10 @@ footer {
   background-position: 0;
   padding: 100px;
 }
+footer #contato {
+  line-height: 23pt;
+  text-align: left;
+}
 footer #redes a img {
   height: 50px;
   position: static;
@@ -28,6 +32,6 @@ footer #redes a img {
   margin: 10px;
 }
 main {
-  background-color: aliceblue;
+  background-color: white;
   background-size: 100%;
 }
