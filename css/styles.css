@@ -16,6 +16,23 @@ header {
   background-color: darkred;
   font-family: tako;
 }
+.menu ul {
+  list-style: none;
+  position: relative;
+}
+.menu ul li {
+  width: 150px;
+  float: left;
+}
+.menu a {
+  padding: 15px;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  background-color: darkred;
+  color: white;
+}
+
 header h1 img {
   height: 50px;
   image-orientation: 30px;
